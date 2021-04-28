@@ -4,4 +4,4 @@ Good bye!
 555
 line fron user 2
 good evening (from master)
-
+some new feature
